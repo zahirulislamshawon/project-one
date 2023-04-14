@@ -1,0 +1,150 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+img {
+    max-width: 100%;
+}
+
+/*hero Section*/
+
+
+    
+
+
+.heroSection01 {
+    background-image: url("../images/project one  01.jpg");
+    min-height: 50vh;
+    max-width: 1800px;
+    margin: 50px auto;
+    background-repeat: no-repeat;
+    background-position: 0px -159px;
+    background-size: cover;
+    background-color: rgb(137 124 124 / 89%);
+    background-blend-mode: hue;
+}
+
+.Container01 {
+    max-width: 900px;
+    margin-left: 450px;
+    color: white;
+    text-align: center;
+    padding: 133px 50px;
+}
+
+.Container01 h1 {
+    font-size: 30px;
+    padding: 10px 0px;
+}
+
+.Container01 p {
+    padding: 5px 120px;
+    font-size: 20px;
+    line-height: 1.4;
+}
+
+.Container01 a {
+    margin-left: 310px;
+    color: white;
+    padding: 15px 0px;
+    display: block;
+    font-size: 18px;
+    text-decoration: none;
+    box-shadow: 0px 0px 2px 0px;
+    max-width: 174px;
+    margin-top: 10px;
+}
+
+
+/*banner01 section*/
+
+.banner01{}
+.section{
+    max-width: 1800px;
+    margin: auto;
+    padding: 100px 0 0  0;
+}
+.container{
+    max-width: 1400px;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+.Text{
+    flex-basis: 50%;
+    max-width: 50%;
+    padding: 10px  30px;
+}
+.image{
+    flex-basis: 50%;
+    max-width: 50%;
+    padding: 10px 30px;
+}
+
+.Text h1{
+    padding-bottom: 20px;
+    font-size: 28px;
+}
+.Text p{
+    font-size: 21px;
+    line-height: 1.4;
+}
+
+/*knowledge Section01*/
+
+
+    
+
+.knowledgeSection01 {
+
+background-image: url(../images/project\ one\ \ 04.jpg);
+
+min-height: 50vh;
+
+max-width: 1800px;
+
+margin: 100px  auto;
+
+background-repeat: no-repeat;
+
+background-position: 0px -159px;
+
+background-size: cover;
+
+background-color: rgb(137 124 124 / 89%);
+
+background-blend-mode: hue;
+}
+    
+
+/*searchSection*/
+
+.searchSection{
+    max-width: 1800px;
+    background-color: #eee;
+    margin: auto;
+    min-height: 25vh;
+    margin-bottom: 100px;
+}
+
+.searchContainer{
+    
+max-width: 900px;
+    
+margin: auto;
+    
+text-align: center;
+    
+padding: 100px;
+}
+
+.searchContainer h4{
+    font-size: 25px;
+    padding: 15px;
+}
+.searchContainer p{
+    font-size: 20px;
+}
